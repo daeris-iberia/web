@@ -16,7 +16,7 @@
         "web.assets_qweb": [
             "web_refresher/static/src/xml/refresher.xml",
             "web_refresher/static/src/xml/control_panel.xml",
-            "web_refresher/static/src/xml/pager_button.xml",
+            #"web_refresher/static/src/xml/pager_button.xml",
         ],
     },
 }
